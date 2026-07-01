@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dev — Educator & Developer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,500;9..144,600&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="margin-rule" aria-hidden="true"></div>
+
+<header class="hero" id="top">
+  <div class="hero-inner">
+    <p class="eyebrow" data-note>teacher / builder</p>
+    <h1 id="profile-name">Dev</h1>
+    <p class="tagline" id="profile-tagline">Teacher by craft. Builder by curiosity.</p>
+    <p class="bio" id="profile-bio"></p>
+    <div class="socials" id="profile-socials"></div>
+  </div>
+  <div class="hero-photo-wrap">
+    <img id="profile-photo" src="images/profile.jpg" alt="Profile photo" onerror="this.style.display='none'">
+  </div>
+</header>
+
+<main>
+
+  <section class="lane lane-teach" id="teach">
+    <div class="lane-head">
+      <span class="margin-note">left margin</span>
+      <h2 id="teach-heading">Teaches</h2>
+      <p class="lane-note" id="teach-note"></p>
+    </div>
+
+    <div class="subjects" id="teach-subjects"></div>
+
+    <div class="card-grid" id="teach-content"></div>
+
+    <div class="admin-block">
+      <h3>Institutional Work</h3>
+      <ul id="teach-admin"></ul>
+    </div>
+  </section>
+
+  <section class="lane lane-build" id="build">
+    <div class="lane-head">
+      <span class="margin-note">right margin</span>
+      <h2 id="build-heading">Builds</h2>
+      <p class="lane-note" id="build-note"></p>
+    </div>
+
+    <div class="project-grid" id="build-projects"></div>
+
+    <div class="skills-block" id="build-skills"></div>
+  </section>
+
+  <section class="lane lane-certs" id="certificates">
+    <div class="lane-head">
+      <span class="margin-note">stamped</span>
+      <h2 id="certs-heading">Credentials</h2>
+      <p class="lane-note" id="certs-note"></p>
+    </div>
+    <div class="cert-grid" id="certs-grid"></div>
+  </section>
+
+  <section class="lane lane-writing" id="writing">
+    <div class="lane-head">
+      <span class="margin-note">off the record</span>
+      <h2 id="writing-heading">Writing</h2>
+      <p class="lane-note" id="writing-note"></p>
+    </div>
+    <div class="card-grid" id="writing-items"></div>
+  </section>
+
+</main>
+
+<footer>
+  <p>Built page by page. <a href="#top">Back to top ↑</a></p>
+</footer>
+
+<script src="js/content.js"></script>
+<script src="js/render.js"></script>
+</body>
+</html>
