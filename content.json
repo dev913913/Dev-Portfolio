@@ -1,0 +1,126 @@
+{
+  "site": {
+    "title": "Dev — Educator & Developer",
+    "favicon": "images/favicon.png"
+  },
+  "profile": {
+    "name": "Dev",
+    "tagline": "Teacher by craft. Builder by curiosity.",
+    "photo": "images/profile.jpg",
+    "location": "Punjab, India",
+    "bio": "Over three and a half years across teaching, institutional documentation, content creation, and web development — combined with a growing focus on software development and applied AI.",
+    "resumeLink": "",
+    "socials": [
+      { "label": "YouTube — Bewakoof English", "url": "" },
+      { "label": "Substack", "url": "" },
+      { "label": "Instagram — Node Education", "url": "" },
+      { "label": "GitHub", "url": "" },
+      { "label": "Email", "url": "mailto:you@example.com" }
+    ]
+  },
+  "teaching": {
+    "heading": "Teaches",
+    "note": "English, computer applications, and how to actually use the tools people are handed but never taught.",
+    "subjects": [
+      "English Language",
+      "Computer Applications",
+      "Microsoft Word",
+      "Microsoft Excel",
+      "Microsoft PowerPoint",
+      "Visual Studio Code",
+      "Basic Computer Skills"
+    ],
+    "content": [
+      {
+        "title": "Bewakoof English",
+        "type": "YouTube Channel",
+        "description": "~200 educational videos: English grammar, classroom lectures, Office tutorials, VS Code setup, basic programming, and AI-related content.",
+        "link": ""
+      },
+      {
+        "title": "Educational Blog",
+        "type": "Blog",
+        "description": "Grammar lessons, story-reading lessons, and interactive listening exercises with quizzes and instant scoring.",
+        "link": ""
+      },
+      {
+        "title": "Node Education",
+        "type": "Instagram",
+        "description": "Reflective and educational writing.",
+        "link": ""
+      }
+    ],
+    "administrative": [
+      "NAAC, IQAC, NSS, Red Ribbon Club, Youth Services Club, Eco Club documentation",
+      "Academic Committee & Grievance Cell documentation",
+      "Official notices, Minutes of Meetings, event & activity reports",
+      "NSS student registration and My Bharat Portal data management",
+      "Induction programme coordination — auditorium, AV systems, logistics",
+      "Computer Lab & Language Lab management, basic networking troubleshooting",
+      "Admission counselling and outreach campaigns"
+    ]
+  },
+  "building": {
+    "heading": "Builds",
+    "note": "Live web apps, mostly AI-powered, built to actually be used — not just demoed.",
+    "projects": [
+      {
+        "name": "CoDev",
+        "description": "Live educational platform for creating, managing, and publishing programming lessons. Currently covers C, C++, Python, and JavaScript.",
+        "tech": ["React", "Supabase", "Vercel"],
+        "link": "",
+        "image": "images/codev.jpg"
+      },
+      {
+        "name": "Pakshi",
+        "description": "Indian Bird Sounds Library — explore Indian birds through their calls and related info.",
+        "tech": ["JavaScript", "Web Audio"],
+        "link": "https://pakshi-lovat.vercel.app",
+        "image": "images/pakshi.jpg"
+      },
+      {
+        "name": "Naruto Motivation Chatbot",
+        "description": "AI-powered motivational chatbot inspired by Naruto, built on the Gemini API.",
+        "tech": ["Gemini API", "Vercel Functions"],
+        "link": "https://naruto-motivation-chat.vercel.app",
+        "image": "images/naruto.jpg"
+      },
+      {
+        "name": "Dil Ki Dawa",
+        "description": "Mood-based recommender for classical Indian songs, powered by the Gemini API.",
+        "tech": ["Gemini API", "JavaScript"],
+        "link": "",
+        "image": "images/dilkidawa.jpg"
+      }
+    ],
+    "skills": {
+      "Languages": ["C", "C++", "Python", "Java", "JavaScript"],
+      "Web": ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+      "AI & APIs": ["Gemini API", "REST APIs", "Prompt Engineering"],
+      "Tools": ["VS Code", "Git", "GitHub", "Vercel", "Supabase"]
+    }
+  },
+  "certificates": {
+    "heading": "Credentials",
+    "note": "Add each certificate here — image plus a short label.",
+    "items": [
+      {
+        "title": "Example Certificate",
+        "issuer": "Issuer Name",
+        "date": "2025",
+        "image": "certificates/example.jpg"
+      }
+    ]
+  },
+  "writing": {
+    "heading": "Writing",
+    "note": "Essays on personal development, psychology, and philosophy.",
+    "items": [
+      {
+        "title": "Substack Publication",
+        "description": "Long-form writing, some pieces recognised and shared by published authors.",
+        "link": ""
+      }
+    ]
+  }
+}
