@@ -1,10 +1,10 @@
 {
   "site": {
-    "title": "Dev Kumar — Educator & Developer",
+    "title": "Dev — Educator & Developer",
     "favicon": "images/favicon.png"
   },
   "profile": {
-    "name": "Dev Kumar",
+    "name": "Dev",
     "tagline": "Teacher by craft. Builder by curiosity.",
     "photo": "images/profile.jpg",
     "location": "Punjab, India",
@@ -13,9 +13,9 @@
     "socials": [
       { "label": "YouTube — Bewakoof English", "url": "" },
       { "label": "Substack", "url": "" },
-      { "label": "Instagram — Opti Nihilist", "url": "" },
+      { "label": "Instagram — Node Education", "url": "" },
       { "label": "GitHub", "url": "" },
-      { "label": "Email", "url": "mailto:dev913913@gmail.com" }
+      { "label": "Email", "url": "mailto:you@example.com" }
     ]
   },
   "teaching": {
@@ -44,7 +44,7 @@
         "link": ""
       },
       {
-        "title": "Opti Nihilist",
+        "title": "Node Education",
         "type": "Instagram",
         "description": "Reflective and educational writing.",
         "link": ""
@@ -65,10 +65,10 @@
     "note": "Live web apps, mostly AI-powered, built to actually be used — not just demoed.",
     "projects": [
       {
-        "name": "Codev",
+        "name": "CoDev",
         "description": "Live educational platform for creating, managing, and publishing programming lessons. Currently covers C, C++, Python, and JavaScript.",
         "tech": ["React", "Supabase", "Vercel"],
-        "link": " https://codev-cms.vercel.app",
+        "link": "",
         "image": "images/codev.jpg"
       },
       {
@@ -89,7 +89,7 @@
         "name": "Dil Ki Dawa",
         "description": "Mood-based recommender for classical Indian songs, powered by the Gemini API.",
         "tech": ["Gemini API", "JavaScript"],
-        "link": "https://dil-ki-dawa.vercel.app",
+        "link": "",
         "image": "images/dilkidawa.jpg"
       }
     ],
