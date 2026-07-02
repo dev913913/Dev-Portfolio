@@ -68,7 +68,7 @@
         "name": "Codev",
         "description": "Live educational platform for creating, managing, and publishing programming lessons. Currently covers C, C++, Python, and JavaScript.",
         "tech": ["React", "Supabase", "Vercel"],
-        "link": " https://codev-cms.vercel.app",
+        "link": "https://codev-cms.vercel.app",
         "image": "images/codev.jpg"
       },
       {
