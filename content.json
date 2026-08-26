@@ -11,10 +11,10 @@
     "bio": "Over three and a half years across teaching, institutional documentation, content creation, and web development — combined with a growing focus on software development and applied AI.",
     "resumeLink": "",
     "socials": [
-      { "label": "YouTube — Bewakoof English", "url": "" },
-      { "label": "Substack", "url": "" },
-      { "label": "Instagram — Opti Nihilist", "url": "" },
-      { "label": "GitHub", "url": "" },
+      { "label": "YouTube — Bewakoof English", "url": "https://youtube.com/@bewakoofenglish-wo8ze?si=BXm2k9aVATNxsAVE" },
+      { "label": "Substack", "url": "https://optinihilist.substack.com/" },
+      { "label": "Instagram — Opti Nihilist", "url": "https://www.instagram.com/opti.nihilist/" },
+      { "label": "GitHub", "url": "https://github.com/dev913913" },
       { "label": "Email", "url": "mailto:dev913913@gmail.com" }
     ]
   },
@@ -35,19 +35,19 @@
         "title": "Bewakoof English",
         "type": "YouTube Channel",
         "description": "~200 educational videos: English grammar, classroom lectures, Office tutorials, VS Code setup, basic programming, and AI-related content.",
-        "link": ""
+        "link": "https://youtube.com/@bewakoofenglish-wo8ze?si=BXm2k9aVATNxsAVE"
       },
       {
         "title": "Educational Blog",
         "type": "Blog",
         "description": "Grammar lessons, story-reading lessons, and interactive listening exercises with quizzes and instant scoring.",
-        "link": ""
+        "link": "https://www.bewakoofenglish.blogspot.com"
       },
       {
         "title": "Opti Nihilist",
         "type": "Instagram",
         "description": "Reflective and educational writing.",
-        "link": ""
+        "link": "https://optinihilist.substack.com/"
       }
     ],
     "administrative": [
@@ -70,6 +70,13 @@
         "tech": ["React", "Supabase", "Vercel"],
         "link": "https://codev-cms.vercel.app",
         "image": "images/codev.jpg"
+      },
+      {
+        "name": "PTU English Prep",
+        "description": "Live educational platform for helping students for PTU English course by providing them with relevent notes, MCQs, lab work, and PYQs",
+        "tech": ["React", "Github","Vercel"],
+        "link": "https://ptuenglish.vercel.app",
+        "image": "images/ptuenglish.jpg"
       },
       {
         "name": "Pakshi",
@@ -119,7 +126,7 @@
       {
         "title": "Substack Publication",
         "description": "Long-form writing, some pieces recognised and shared by published authors.",
-        "link": ""
+        "link": "https://optinihilist.substack.com/"
       }
     ]
   }
